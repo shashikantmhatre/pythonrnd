@@ -1,0 +1,2 @@
+# pythonrnd
+python rnd module
